@@ -1,0 +1,10 @@
+
+Control Systems Assignment:
+
+4) Gain=k=0.183
+pole=-3.93+4.07i
+damping=0.695
+overshoot=4.8
+frequency(rad/s) = 5.66
+
+5) 
